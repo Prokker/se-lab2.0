@@ -1,5 +1,5 @@
 # SE Spaceship
-
+[![Java CI with Maven](https://github.com/Prokker/se-lab2.0/actions/workflows/maven.yml/badge.svg)](https://github.com/Prokker/se-lab2.0/actions/workflows/maven.yml)
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs.
