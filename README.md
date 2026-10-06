@@ -9,7 +9,7 @@ The application is simplified and deliberately contains bugs.
 - The project is implemented in Java 21.
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Clone the repository and execute Maven to build the application:
 
 ```
