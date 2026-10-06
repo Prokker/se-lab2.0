@@ -1,5 +1,6 @@
 # SE Spaceship
 [![Java CI with Maven](https://github.com/Prokker/se-lab2.0/actions/workflows/maven.yml/badge.svg)](https://github.com/Prokker/se-lab2.0/actions/workflows/maven.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs.
@@ -9,7 +10,7 @@ The application is simplified and deliberately contains bugs.
 - The project is implemented in Java 21.
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Clone the repository and execute Maven to build the application:
 
 ```
